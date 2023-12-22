@@ -34,12 +34,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 MIT License - The License file is provided here : (./LICENSE)
 
-## Screenshot
-
-
 
 ## Deployed page and Github Repository
 
-Deployed Webpage : 
+Deployed Webpage : https://rasdevworld.github.io/Challenge2-Portfolio/
 
 Github Repository: https://github.com/rasdevworld/Challenge2-Portfolio
