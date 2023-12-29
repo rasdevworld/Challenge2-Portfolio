@@ -191,6 +191,16 @@ figcaption h2 {
 #hero #tile {
   width: 100%;
   height: 200px;
+  position: relative;
+}
+
+/* Applied css properties to newly added profile picture*/
+#hero #profile {
+  width: 15%;
+  height: 200px;
+  position: absolute;
+  margin-left: 5%;
+  border: 2px solid white;
 }
 
 @media screen and (max-width:576px) {

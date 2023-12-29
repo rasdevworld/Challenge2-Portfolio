@@ -34,6 +34,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 MIT License - The License file is provided here : (./LICENSE)
 
+## Screenshot
+
+![Alt text](assets/images/portfolio-screenshot.png)
 
 ## Deployed page and Github Repository
 
